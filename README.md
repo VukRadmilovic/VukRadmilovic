@@ -22,4 +22,4 @@ I value clean code, system stability and continuous learning. While my professio
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/vuk-radmilovic/) • [vuk.radmilovic01@gmail.com](mailto:vuk.radmilovic01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vuk-radmilovic/) • [Email](mailto:vuk.radmilovic01@gmail.com)
