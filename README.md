@@ -1,4 +1,4 @@
-### Hi there, I'm Vuk Radmilović 👋
+## Hi there, I'm Vuk Radmilović 👋
 
 **Software Engineer | Full Stack Developer** 📍 Novi Sad, Serbia
 
