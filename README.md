@@ -10,14 +10,12 @@ I value clean code, system stability, and continuous learning. While my professi
 
 ### 🛠 Technical Skills
 
-**⚡ Professional & Daily Stack**
-These are the technologies I use in production environments to build enterprise-grade software:
+**⚡ Professional & Daily Stack** - these are the technologies I use in production environments to build enterprise-grade software:
 *   **Frontend:** Angular (v13 - v19), TypeScript, RxJS, NgRx, SCSS
 *   **Backend:** Java, Spring Boot, Spring Batch, Hibernate/JPA, SQL (MS SQL, PostgreSQL)
 *   **Testing & Tools:** Jest, Cypress, Jasmine, Karma, JUnit, Mockito, Git, Postman
 
-**📚 Other Technologies & Frameworks**
-Utilized across various academic and personal projects:
+**📚 Other Technologies & Frameworks** - utilized across various academic and personal projects:
 *   **Languages:** C#, Python, JavaScript
 *   **Frameworks:** React, .NET (WPF, WinForms, ASP.NET), Django, Flask
 
