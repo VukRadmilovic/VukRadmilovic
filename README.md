@@ -4,7 +4,7 @@
 
 I am a Software Engineer with a B.Sc. in Software Engineering & Information Technology (University of Novi Sad, FTN). Currently working in the Fintech domain, focused on building robust backend architectures and reactive, maintainable frontends.
 
-I value clean code, system stability, and continuous learning. While my professional focus is currently on the Java/TS ecosystem, I have a strong academic background in .NET and Python development.
+I value clean code, system stability and continuous learning. While my professional focus is currently on the Java/TS ecosystem, I have a strong academic background in .NET and Python development.
 
 ---
 
